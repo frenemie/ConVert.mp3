@@ -2,10 +2,9 @@
 Easy CLI Wav to Mp3 converter
 
 IMPORTANT
-User pip to get the following libraries
-The dependancies for this to work are:
+Use pip install -r requirements.txt
+to get the following libraries:
 pyfiglet
-from pydub import AudioSegment
-from pydub.utils import which
+tk
 
 Install FFMPEG from https://www.ffmpeg.org/download.html#build-windows
